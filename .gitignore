@@ -12,6 +12,7 @@ env/
 # Secrets
 .env
 .env.*
+!.env.example
 
 # IDE
 .idea/
