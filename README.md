@@ -140,3 +140,16 @@ TOKEN = os.environ["BOT_TOKEN"]
 ```bash
 BOT_TOKEN=123:abc .venv/bin/python bot.py
 ```
+
+## License
+
+The source code is released under the [MIT License](LICENSE).
+
+## Disclaimer
+
+**⚡ Harry Potter vs Tom Riddle 🐍** is an unofficial, non-commercial fan game.
+It is not affiliated with, endorsed by, or sponsored by J.K. Rowling, Warner Bros. Entertainment,
+Wizarding World Digital, or any other rights holder.
+Harry Potter and all related names, characters and story elements are trademarks and/or
+copyrights of their respective owners and are used here for fan purposes only.
+The MIT License covers this project's source code only, not that material.
